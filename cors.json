@@ -1,0 +1,7 @@
+{
+    "cors": {
+      "origins": ["*"],
+      "methods": ["GET", "HEAD", "PUT", "PATCH", "POST", "DELETE"],
+      "headers": ["Content-Type", "Authorization"]
+    }
+  }
